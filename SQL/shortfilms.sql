@@ -1,10 +1,5 @@
-/******************************************************************************
 
-                            Online Java Compiler.
-                Code, Compile, Run and Debug java program online.
-Write your code in this editor and press "Run" button to execute it.
-
-*******************************************************************************/
+-- SCHEMA - https://www.interviewbit.com/problems/short-films/
 
  select m.movie_title , m.movie_year , concat(d.director_first_name,d.director_last_name) as
  director_name , concat(a.actor_first_name,a.actor_last_name) as
