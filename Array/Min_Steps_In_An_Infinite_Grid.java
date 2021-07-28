@@ -1,4 +1,4 @@
-nput Format
+Input Format
 Given two integer arrays A and B, where A[i] is x coordinate and B[i] is y coordinate of ith point respectively.
 
 
